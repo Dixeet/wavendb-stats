@@ -1,0 +1,20 @@
+{
+  "name": "wavendb-stats",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite build --watch --mode development",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "prettier": "^3.0.3",
+    "vite": "^4.4.9"
+  },
+  "peerDependencies": {
+    "vue": "^3.2.25"
+  }
+}
